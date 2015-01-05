@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="document">
-            <pb facs="tcp:012689_0000_0F8C16AC82FE1148"/>
-            <pb facs="tcp:012689_0001_0F8C16AD1A7A07C8"/>
+            <pb facs="unknown:012689_0000_0F8C16AC82FE1148"/>
+            <pb facs="unknown:012689_0001_0F8C16AD1A7A07C8"/>
             <floatingText type="letter">
                <body>
                   <opener>
